@@ -1,2 +1,3 @@
 # hello-world
-hello world exercise
+
+A simple "Hello, world!" example to get familiar with GitHub.
